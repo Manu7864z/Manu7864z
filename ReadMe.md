@@ -8,6 +8,7 @@ My Name is Manuel, i am 25 years and i want to become a web developer. :)
 - things I don't like: crowded places, country music, Jerry (just kidding)
 
 --------------
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 
 ![GIF](https://media2.giphy.com/media/S8xsj2wOZQnZxbFZTk/giphy.gif)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Manu7864z)](https://github.com/ryo-ma/github-profile-trophy)
