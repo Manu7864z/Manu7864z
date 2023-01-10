@@ -14,3 +14,8 @@ Things i use to code: HTML, CSS, Javascript, React... will add more in the futur
 ![GIF](https://media2.giphy.com/media/S8xsj2wOZQnZxbFZTk/giphy.gif)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Manu7864z)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/Manu7864z/count.svg" />
+</p>
