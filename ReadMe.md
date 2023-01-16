@@ -10,7 +10,7 @@ Things i use to code: HTML, CSS, Javascript, React... will add more in the futur
 
 --------------
 
-![GIF](https://media2.giphy.com/media/S8xsj2wOZQnZxbFZTk/giphy.gif)
+![GIF]([https://media2.giphy.com/media/S8xsj2wOZQnZxbFZTk/giphy.gif](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif))
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Manu7864z)](https://github.com/ryo-ma/github-profile-trophy)
 
