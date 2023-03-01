@@ -6,7 +6,7 @@ My Name is Manuel, i am 25 years and a web developer. :)
 - hobbies: going to the Gym, playing video games, sometimes reading a book or reddit threads
 - things I like: my cat, nice food, coding, Rick & Morty 
 
-Things i use to code: HTML, CSS, Javascript, React... will add more in the future. 
+Things i use to code: HTML, CSS, JavaScript, React, Next.js, MongoDB, ... and more. 
 
 --------------
 
