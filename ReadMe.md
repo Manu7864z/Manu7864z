@@ -1,12 +1,11 @@
 # Welcome to my Github!
 **Who I am?**
 <br/>
-My Name is Manuel, i am 25 years and a web developer. :) 
-- worked as an industrial clerk before in different departments
-- hobbies: going to the Gym, playing video games, sometimes reading a book or reddit threads
-- things I like: my cat, nice food, coding, Rick & Morty 
+My Name is Manuel, i am 27 years and based in Germany, Leipzig. 
+- curious in the fields programming, web developement and data Analysis
+- hobbies: going to the Gym, reading books about psychology or the modern environment, going for a walk or dinner with friends
 
-Things i use to code: HTML, CSS, JavaScript, React, Next.js, MongoDB, Node.js & more to come. 
+Some technologies I have worked with so far: HTML, CSS, JS, React, Next.JS, Node.JS, SQL & Python. 
 
 --------------
 
