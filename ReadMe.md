@@ -5,7 +5,7 @@ My Name is Manuel, i am 27 years and based in Germany, Leipzig.
 - curious in the fields programming, web developement and data Analysis
 - hobbies: going to the Gym, reading books about psychology or the modern environment, going for a walk or dinner with friends
 
-Some technologies I have worked with so far: HTML, CSS, JS, React, Next.JS, Node.JS, SQL & Python. 
+Some technologies I have worked with so far: HTML, CSS, JS, React, Next.JS, Node.JS, SQL, Python & React Native.
 
 --------------
 
